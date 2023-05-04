@@ -1,5 +1,5 @@
 # ECM1400
-Programming module project:
+Programming module project (94/100):
 
 The AQUA platform is an air pollution data analytics solution. AQUA users are policy-makers and public servants responsible for monitoring 
 the pollution levels in different areas of the country.
